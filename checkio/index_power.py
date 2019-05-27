@@ -9,3 +9,4 @@ def index_power(arr, n):
 
 def index_power2(arr, n):
     return arr[n]**n if n < len(arr) else -1
+
