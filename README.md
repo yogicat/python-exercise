@@ -36,7 +36,6 @@
 - [ ] Non-unique Elements
 - [ ] Monkey Typing
 - [ ] All the Same
-
 - [ ] The Most Wanted Letter
 - [ ] Time Converter
 - [ ] Sort Array by Element Frequency
