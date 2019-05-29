@@ -18,13 +18,13 @@
 - [x] First Word
 - [x] Second Index
 - [x] Between Markers
-- [ ] Best Stock
-- [ ] Popular Words
-- [ ] Bigger Price
-- [ ] Fizz Buzz
+- [x] Best Stock
+- [x] Popular Words
+- [x] Bigger Price
+- [x] Fizz Buzz
 - [ ] The Most Numbers
 - [ ] Even the Last
-- [ ] Three Words
+- [x] Three Words
 - [ ] Right to Lest
 - [ ] Number Base
 - [ ] Absolute Sorting
