@@ -22,22 +22,19 @@
 - [x] Popular Words
 - [x] Bigger Price
 - [x] Fizz Buzz
-- [ ] The Most Numbers
-- [ ] Even the Last
+- [x] The Most Numbers
+- [x] Even the Last
 - [x] Three Words
-- [ ] Right to Lest
-- [ ] Number Base
-- [ ] Absolute Sorting
-- [ ] The Most Frequent
+- [x] Right to Left
+- [x] Absolute Sorting
 
 ### Home
 
+- [x] All the Same
 - [ ] House Password
-- [ ] Non-unique Elements
-- [ ] Monkey Typing
-- [ ] All the Same
 - [ ] The Most Wanted Letter
 - [ ] Time Converter
+- [ ] Non-unique Elements
 - [ ] Sort Array by Element Frequency
 - [ ] Flatten a List
 - [ ] Long Repeat
@@ -64,3 +61,4 @@
 ### Github
 
 - [ ] Conversion from CamelCase
+
