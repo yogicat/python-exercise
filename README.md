@@ -31,12 +31,12 @@
 ### Home
 
 - [x] All the Same
-- [ ] House Password
+- [x] House Password
 - [ ] The Most Wanted Letter
 - [ ] Time Converter
-- [ ] Non-unique Elements
+- [x] Non-unique Elements
 - [ ] Sort Array by Element Frequency
-- [ ] Flatten a List
+- [x] Flatten a List
 - [ ] Long Repeat
 - [ ] Sun Angle
 - [ ] Bird Language
