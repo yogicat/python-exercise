@@ -1,10 +1,10 @@
 def time_converter(time):
-    hours = int(time[:2])
-    suffix = ' a.m.'
+    hours, mins = map(int, time.split(':'))
 
-    if hours >= 0 and hours < 12:
+    hours = hours % 12 if hours % 12 != 0 else 12
+    suffix = 'p.m.' if hours >= 12 else 'a.m'
 
-    return str(hours) + time[2:] + suffix
+    return f"{hours}:{mins} {suffix}"
 
 
 print(time_converter('14:30'))
